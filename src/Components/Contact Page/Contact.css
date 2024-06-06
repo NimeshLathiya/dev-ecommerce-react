@@ -1,0 +1,12 @@
+.sendBtn:hover {
+    background-color: white !important;
+    color: black !important;
+    font-weight: bold !important;
+    border: 1px solid #4237a1 !important;
+    transition: all 0.7s ease-in !important;
+}
+
+.ReCAPTCHA {
+    margin-top: 20px;
+    margin-right: 30px;
+}

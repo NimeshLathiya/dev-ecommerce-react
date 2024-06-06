@@ -1,0 +1,21 @@
+.logOutBtn:hover {
+    background-color: #212529 !important;
+    color: white !important;
+    border: 1px solid white !important;
+    transition: all 0.5s ease-in !important;
+}
+
+.logInBtn:hover {
+    background-color: #212529 !important;
+    transition: all 0.7s !important;
+    color: white !important;
+    border: 1px solid white !important;
+    transition: all 0.5s ease-in !important;
+}
+
+.navbarLink:hover {
+    border-radius: 5px !important;
+    background-color: white;
+    color: black !important;
+    font-weight: 500;
+}
