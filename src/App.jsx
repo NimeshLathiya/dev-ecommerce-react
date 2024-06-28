@@ -18,7 +18,7 @@ import GoToTop from "./Components/GoToTop/GoToTop";
 function App() {
   const [cart, setCart] = useState([]);
 
-  const AddToCart = (data) => {
+  const AddToCart = () => {
     const itemExists = cart.some((item) => item.id === data.id);
 
     if (itemExists) {
