@@ -9,7 +9,7 @@ const DevStore = () => {
           fontSize: "105px",
           fontFamily: "Raleway",
           letterSpacing: "3px",
-          fontWeight: "400",
+          fontWeight: "",
         }}
       >
         Welcome to DevStore
