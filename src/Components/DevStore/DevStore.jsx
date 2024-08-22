@@ -18,4 +18,4 @@ const DevStore = () => {
   );
 };
 
-export default DevStore;
+export default ;
